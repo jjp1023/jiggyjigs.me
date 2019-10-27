@@ -4,6 +4,7 @@ repo_url: https://github.com/jjp1023/jiggyjigs.me/tree/master/docs
 site_description: Hosting various documentation related to my Web Services
 theme:
   name: material
+  custom_dir: theme
   logo: 'logo.png'
   favicon: 'logo.png'
   palette:
