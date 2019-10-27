@@ -1,0 +1,35 @@
+site_name: Jiggy's Web Services
+repo_name: jiggyjigs.me
+repo_url: https://github.com/jjp1023/jiggyjigs.me/tree/master/docs
+site_description: Hosting various documentation related to my Web Services
+theme:
+  name: material
+  logo: 'logo.png'
+  favicon: 'logo.png'
+  palette:
+    primary: 'blue grey'
+    accent: 'pink'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+
+strict: true
+markdown_extensions:
+- admonition
+- footnotes
+- pymdownx.superfences
+- pymdownx.details
+- toc:
+    permalink: true
+- markdown_include.include:
+    base_path: includes
+- codehilite:
+    linenums: false
+- pymdownx.emoji:
+    emoji_generator: !!python/name:pymdownx.emoji.to_svg
+    options:
+      attributes:
+        width: 25px
+
+nav:
+- Home: index.md

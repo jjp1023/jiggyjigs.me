@@ -1,0 +1,8 @@
+site/
+**/.DS_Store
+
+# Bundler
+Gemfile.lock
+bin/*
+.bundle/*
+.idea/
