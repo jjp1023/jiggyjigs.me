@@ -2,6 +2,23 @@
 
 ## Places you can Vists
 
+### Germany
+
+| Sites | Link  |
+|-------|-------|
+| [Movies](#radarr) | <https://radarr.jiggyjigs.ml> |
+| [Tv Shows](#tv) | <https://sonarr.jiggyjigs.ml> |
+| [Tautulli](#tautulli) [^*] | <https://tautulli.jiggyjigs.ml> |
+| [Deluge-vpn]  | <https://deluge-vpn.jiggyjigs.ml> |
+| [NZBGet](#nzbget) [^*] | <https://nzbget.jiggyjigs.ml> |
+| [NZBHydra](#nzbhydra) [^*] | <https://nzbhydra.jiggyjigs.ml> |
+| [Jackett] | <https://jackett.jiggyjigs.ml> |
+|-----------|-----|-----|
+| [Portainer](#portainer) [^*] | <https://portainer.jiggyjigs.ml> |
+| [PGUI] | <https://pgui.jiggyjigs.ml> |
+
+## Kansas City
+
 | Sites | Link  | Description |
 |-------|-------|-------------|
 | [Movies](#radarr) | <https://movies.jiggyjigs.me> | Download Movies |
