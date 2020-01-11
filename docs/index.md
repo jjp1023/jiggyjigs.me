@@ -2,7 +2,7 @@
 
 ## Places you can Vists
 
-### Germany
+### Germany - *.jiggyjigs.ml
 
 | Sites | Link  |
 |-------|-------|
@@ -17,7 +17,7 @@
 | [Portainer](#portainer) [^*] | <https://portainer.jiggyjigs.ml> |
 | [PGUI] | <https://pgui.jiggyjigs.ml> |
 
-## Kansas City
+## Kansas City - *.jiggyjigs.me
 
 | Sites | Link  | Description |
 |-------|-------|-------------|
